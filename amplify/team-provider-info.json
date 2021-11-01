@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aroundtownapp-dev-130248-authRole",
+      "UnauthRoleArn": "arn:aws:iam::302689243136:role/amplify-aroundtownapp-dev-130248-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::302689243136:role/amplify-aroundtownapp-dev-130248-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aroundtownapp-dev-130248-deployment",
+      "UnauthRoleName": "amplify-aroundtownapp-dev-130248-unauthRole",
+      "StackName": "amplify-aroundtownapp-dev-130248",
+      "StackId": "arn:aws:cloudformation:us-east-1:302689243136:stack/amplify-aroundtownapp-dev-130248/e1989c30-3810-11ec-9015-0ecc87e1605b",
+      "AmplifyAppId": "d2jol7g9bt0bot"
+    },
+    "categories": {
+      "auth": {
+        "aroundtownapp1ce51f7d": {}
+      }
+    }
+  }
+}
